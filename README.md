@@ -1,21 +1,32 @@
 <h1 align = "center"> Olá 👋, sou Kauan Gouveia </h1>
 <h3 align = "center"> SOU UM JOVEM DEVOLPER NA APRENDIZAGEM CONSTANTE </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=kauangouveia&label=Profile%20views&color=0e75b6&style=flat" alt = "kauangouveia" /> </p>
+- 💪 &nbsp; Learning every day about javascript and other linguages.
+- 💻 &nbsp; I´m studying in SENAI Jandira .
+- 🎓 &nbsp; Studying Information systems in university Anhembi Morumbi.
 
-<p align = "left"> <a href = " https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=kauangouveia" alt = "kauangouveia" /> </a> </p>
+#### Languages and Frameworks
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+#### Database
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📫 Como entrar em contato comigo **kauangouveia@gmail.com**
+#### Versioning and documentation
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h3 align = "left"> Conecte-se a mim: </h3>
-<p align = "left">
-<a href="https://linkedin.com/in/kauan gouveia" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" kauan gouveia "height =" 30 "width =" 40 "/> </a>
-<a href = "https://instagram.com/_kauangouveia" target = "blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons /src/images/icons/Social/instagram.svg "alt =" _ kauangouveia "height =" 30 "width =" 40 "/> </a>
-</p>
+  
+#### IDE's
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  
+## My Stats
 
-<h3 align =" left "> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master /icons/c/c-original.svg "alt =" c "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3schools.com/cs/ " target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp" width = "40" height = " 40 "/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src =" https: //raw.githubusercontent.com / devicons / devicon / master / icons / css3 / css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.figma.com/ "target =" _ blank "> <img src =" https://www.vectorlogo.zone/logos/figma/figma-icon.svg "alt =" figma "largura =" 40 "altura = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/ devicon / master / icons / html5 / html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.java. com "target =" _ blank "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" width = "40" height = "40" /> </ a > <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https://kotlinlang.org "target =" _blank "> <img src =" https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg "alt =" kotlin "width =" 40 "height =" 40 "/> </a> <a href = "https://www.mysql.com/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original- wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href="https://www.php.net" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt = "php" width = "40" height = "40" /> </a> <a href = "https://www.python.org" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" largura = "40"height = "40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https: //cdn.worldvectorlogo .com / logos / adobe-xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p>
 
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=kauangouveia&show_icons=true&locale=en&layout=compact" alt = "kauangouveia" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=kauangouveia&show_icons=true&theme=onedark&locale=en" alt = "kauangouveia" /> </p>
+<p> <img align = "left" width = "500px" src = "https://github-readme-stats.vercel.app/api/top-langs?username=kauangouveia&show_icons=true&locale=en&layout=compact" alt = "kauangouveia" /> </p>
+
+<p><img align = "center" width = "500px" src = "https://github-readme-stats.vercel.app/api?username=kauangouveia&show_icons=true&theme=onedark&locale=en" alt = "kauangouveia" /> </p>
