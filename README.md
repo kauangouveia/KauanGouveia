@@ -1,7 +1,7 @@
-### Olá, Eu sou o Kauan Gouveia, estudante de programação e desenvolvedor FullStack
+### Olá, Eu sou o Kauan Gouveia, realizando bacharelado de programação e trabalhando como desenvolvedor Front-End
 
-- 👨🏼‍💻 Trabalho atualmente com React.js e Node.js
-- 📖 Atualmente estudando TDD, Typescript e React Nativie 
+- 👨🏼‍💻 Trabalho atualmente com React.js, Typescript, Javascript, Next, styled-components
+- 📖 Atualmente estudando TDD, React Nativie, solid, GraphQl, apollo 
 - 🔥 Buscando sempre aprender mais!
 <div align="center">
   <a href="https://github.com/kauangouveia">
